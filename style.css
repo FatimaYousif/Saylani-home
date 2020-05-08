@@ -1,0 +1,459 @@
+*
+{
+    margin: 0 auto;
+}
+body
+{
+    background-color: #f7f8fa;
+}
+.box
+{
+    background-color:#2755e9;
+    /* text-align:left; */
+    padding: 2em 7em 2em 7em; 
+    text-align: center;
+    margin:2em 0em 4em 0em;
+}
+.edu,.doctor,.family,.eat
+{
+height:100;
+width:100;
+display: inline-block;
+margin: 20px 20px ;
+text-align: center;
+}
+.box2
+{
+    text-align: left;
+    margin: 70px 50px 70px 50px;
+}
+.sadqah
+{
+background-color: white;
+display: inline-block;
+margin: 5px 30px 5px 30px;
+height:150px;
+width:150px;
+padding: 10px 100px 10px 100px;
+text-align: center;
+box-shadow: -10px 10px 30px #888888; 
+}
+.welfare
+{
+background-color: white;
+display: inline-block;
+margin: 5px 30px 5px 30px;
+height:150px;
+width:150px;
+padding: 10px 100px 10px 100px;
+text-align: center;
+box-shadow: -10px 10px 30px #888888; 
+
+}
+.medical
+{
+    background-color: white;
+display: inline-block;
+margin: 5px 30px 5px 30px;
+height:150px;
+width:150px;
+padding: 10px 100px 10px 100px;
+text-align: center;
+box-shadow: -10px 10px 30px #888888; 
+}
+.box3
+{
+    text-align: left;
+    margin: 70px 50px 70px 50px;
+
+}
+.dastarkhwan
+{
+background-color: white;
+display: inline-block;
+margin: 5px 30px 5px 30px;
+height:150px;
+width:150px;
+padding: 10px 100px 10px 100px;
+text-align: center;
+box-shadow: -10px 10px 30px #888888; 
+
+}
+.plant
+{
+background-color: white;
+/* display: inline-block; */
+margin: 5px 30px 5px 30px;
+height:150px;
+width:150px;
+padding: 10px 100px 10px 100px;
+text-align: center;
+box-shadow: -10px 10px 30px #888888; 
+
+}
+.education
+{
+    background-color: white;
+display: inline-block;
+margin: 5px 30px 5px 30px;
+height:150px;
+width:150px;
+padding: 10px 100px 10px 100px;
+text-align: center;
+box-shadow: -10px 10px 30px #888888; 
+
+}
+
+/* .box4
+{
+    background-color: white;
+    text-align: left;
+    margin-top: 70px ;
+    margin-bottom: 70px ;
+} */
+
+/* footer */
+.uan
+{
+background-image: url("call.png");
+background-size: 30px;
+background-repeat: no-repeat;
+padding: 10px 10px 10px 50px ;
+}
+.world
+{
+    background-image: url("earth.jpg");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px ;
+}
+
+.cell
+{
+    background-image: url("call.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px ;
+
+}
+
+
+/* edited */
+#hepatitis
+{
+background-image: url("C:/Users/CCS/Desktop/assignment4/hepatitis.png");
+background-size: 30px;
+background-repeat: no-repeat;
+padding: 10px 10px 10px 50px ;
+}
+#housing
+{
+    background-image: url("C:/Users/CCS/Desktop/assignment4/housing.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px ;
+}
+#it
+{
+    background-image: url(" C:/Users/CCS/Desktop/assignment4/IT.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px ;
+  
+}
+#tharparker
+{
+    background-image: url("C:/Users/CCS/Desktop/assignment4/tharparkar.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px ;
+  
+}
+.hepatitis
+{
+
+text-align: left;
+background-color: #f7f8fa;
+padding:1em 8.3em 1em 4em;
+margin:0.7em 0.7em 0.7em 0em;
+}
+.housing
+{
+text-align: left;
+background-color: #f7f8fa;
+padding:1em 9.3em 1em 4em;
+margin:0.7em 0em 0.7em 0em;
+}
+.it
+{
+text-align: left;
+background-color:#f7f8fa ;
+padding:1em 7em 1em 4em;
+margin:0.7em 0.7em 0.7em 0em;
+}
+.tharparkar
+{
+background-color: #f7f8fa;
+padding:1em 7em 1em 4em;
+margin:0.7em 0em 0.7em 0em;
+text-align: left;
+}
+
+    .box4
+{
+    background-color: white;
+    text-align: left;
+    margin-top: 40px ;
+    margin-bottom: -10px ;
+}
+.box5
+{
+    background-color: white;
+    text-align: left;
+    /* margin-top: 5px ; */
+    margin-bottom: 70px ;
+}
+
+/* end */
+
+.usa
+{
+    background-image: url("call.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px ;
+
+}
+.uk
+{
+    background-image: url("call.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px ;
+}
+.email
+{
+    background-image: url("email.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px ;
+}
+.nav-things:hover
+{
+    background-color:#316dc3;
+    color:white;
+}
+.nav-things
+{
+    color: black;
+    border-radius: 5em;
+    display: inline;
+    border:none;
+    vertical-align: 25px;
+}
+
+button
+{
+    border:none;
+    background-color: transparent;
+}
+nav{
+    background-color: #f7f8fa; 
+    /* padding:1em 5px 1em 5px; */
+ }
+
+#don
+{
+    padding-right: 50px;
+}
+#up-nav
+{
+    background-color:#316dc3; 
+    margin-bottom: 2em; 
+    padding-bottom: 0.5em ;
+    padding-top: 0.5em;
+    padding-right: 10px;
+}
+#up-nav>p{
+    color:white;
+    margin: 20px 10px 20px 10px;
+}
+.up
+{
+    background-color: #f7f8fa;
+    color:black;
+    padding: 6px 6px 6px 6px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#quote
+{
+    padding-right:5em;
+}
+.about
+{
+    padding-right:none;
+}
+.monthly
+{
+    color:#00ff00;
+}
+#introp
+{
+    text-align: justify;
+    /* text-align :center; */
+    margin: 1em 11em 1em 11em;
+    color:#7f7f7f;
+}
+.headings
+{
+color:#427900;
+}
+#introduction
+{
+    color:#316dc3;
+text-align:center;
+/* text-align: left; */
+}
+.date
+{
+    color:#00ff00;
+}
+.more
+{
+    color:#152fe5;
+}
+#newsd
+{color:white;
+ background-color:#316dc3;}
+
+ nav
+ {
+     position: sticky;
+     top:0px;
+     /* display: flex;
+     flex-wrap: wrap; */
+ }
+.text
+{
+    color:#316dc3;
+}
+.green:before
+{
+    content:"_____";
+    color:#427900;
+}
+.green:after
+{
+    content:"_____";
+    color:#427900;
+}
+.green
+{
+    text-align: center;
+}
+#images
+{
+    padding-left:3em;
+    padding-right:3em;
+    
+}
+.pics
+{
+    margin-bottom: 1em;
+}
+
+/* new */
+#introduction1
+{
+    text-align: 2em;
+    color:#316dc3;
+}
+
+.upcome:before
+{
+    content:"____";
+     position: relative;
+    bottom: 0;
+    left:10%; 
+    color:green;
+}
+.upcome1:before
+{
+    content:"____";
+     position: relative;
+    bottom: 0;
+    left:12%; 
+    color:green;
+}
+
+.mission:before
+{
+    content:"____";
+     position: relative;
+    bottom: 0;
+    left:10%; 
+    color:green;
+}
+
+footer
+{
+    background-color: #25272e;
+    color:#bbbbbb;
+}
+.oh
+{
+ 
+    display: inline-block;
+}
+
+/* nav added things */
+nav{
+    background-color: #f7f8fa; 
+    width:100%;
+    height: 60px;
+    cursor: pointer;
+ }
+ul
+{    
+     list-style-type: none;
+     padding: 0; margin: 0;
+     position: absolute;
+}
+ul li
+{
+    float:left;
+    margin-top:3px;
+ }
+ul li a
+{
+    width:150px;
+    color:black;
+    display: block;
+    text-decoration: none;
+    font-size: 13px;
+    text-align: center;
+    padding:13px 7px;
+    /* padding-top:15px; */
+    border-radius:20px;
+    font-weight: bold;
+}
+a:hover
+{
+background-color:  #316dc3 ;
+
+}
+ul li ul li{
+   float:none;
+   background-color:#f7f8fa ;
+}
+ul li ul{
+   display: none;
+}
+ul li:hover ul{
+   display: block;
+}
+ #home{
+    background-color:#316dc3 !important;    
+    color:white;
+} 
